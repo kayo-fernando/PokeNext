@@ -1,0 +1,21 @@
+.pkNext {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pkNext span{
+    color: red;
+    font-weight: bold;
+}
+.pkNext h1{
+    margin-right: 0.5em;
+}
+
+.mainConteiner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+}
