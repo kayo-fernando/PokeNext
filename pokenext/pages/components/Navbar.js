@@ -13,11 +13,7 @@ export default function Navbar(){
                 width="30"
                 alt="PokeNext"
                 />
-                <Link href="/home" legacyBehavior>
-                    <a>
-                        <h1>PokeNext</h1>
-                    </a>
-                </Link>
+                    <a><h1>PokeNext</h1></a>
             </div>
             <ul className={styles.linkItems}>
                 <li>

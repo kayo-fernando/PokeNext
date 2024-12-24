@@ -17,6 +17,7 @@
 
 .navbar a:hover {
     color: red;    
+    transition: all 1s;
 }
 .logo{
     display: flex;
